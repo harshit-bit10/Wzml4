@@ -34,6 +34,7 @@ pyrogram
 python-dotenv
 python-magic
 qbittorrent-api
+pytz
 requests
 speedtest-cli
 telegraph
